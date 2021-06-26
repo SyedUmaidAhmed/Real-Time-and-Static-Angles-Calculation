@@ -1,0 +1,16 @@
+Notepad of Angles CV Python:
+
+https://www.youtube.com/watch?v=84DrOUSuCDs
+
+Color Based:
+
+https://botforge.wordpress.com/2016/07/20/live-camera-based-angle-calculator-using-python-and-opencv/
+
+https://www.youtube.com/watch?v=njab2bBps6U
+
+Murtaza Series:
+
+https://www.youtube.com/watch?v=zK2PsziBVhA
+https://www.youtube.com/watch?v=NmRt9kdUefk
+https://www.youtube.com/watch?v=4slRpnaF5IQ
+
